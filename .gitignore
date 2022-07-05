@@ -29,3 +29,9 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+.gitignore
+hello.txt
+myfiles/t1.txt
+myfiles/t2.txt
+myfiles/t3.txt
